@@ -9,7 +9,7 @@ This project develops a lane and object detection system for self-driving cars u
 - Pedestrians
 - Traffic signs
 
-## 📋 Key Features
+## Key Features
 
 # Faster R-CNN with ResNet-50 backbone  
 # BDD100K dataset (100,000+ driving clips)  
@@ -29,7 +29,7 @@ cd autonomous-driving
 
 pip install -r requirements.txt
 
-## 🏃‍♂️ Quick Start
+##  Quick Start
 
 1. Open the Jupyter notebook:
 
