@@ -11,11 +11,11 @@ This project develops a lane and object detection system for self-driving cars u
 
 ## Key Features
 
-# Faster R-CNN with ResNet-50 backbone  
-# BDD100K dataset (100,000+ driving clips)  
-# Works in various weather/lighting conditions  
-# 63% detection accuracy in initial tests  
-# Easy-to-use Jupyter Notebook interface  
+=> Faster R-CNN with ResNet-50 backbone  
+=> BDD100K dataset (100,000+ driving clips)  
+=> Works in various weather/lighting conditions  
+=> 63% detection accuracy in initial tests  
+=> Easy-to-use Jupyter Notebook interface  
 
 ## Installation
 
